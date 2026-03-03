@@ -1,0 +1,14 @@
+﻿.DS_Store
+Thumbs.db
+.env
+.vscode/
+.idea/
+*.log
+node_modules/
+dist/
+build/
+coverage/
+.npm/
+.yarn/
+*.tsbuildinfo
+
